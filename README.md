@@ -1,1 +1,8 @@
 # Flight_fare_prediction_model
+
+### Aim : 
+Navigating the process of booking fights often entails encountering signifcant uncertainty and stress, particularly amidst the volatility of ticket prices. In response to this challenge and with the aim of simplifying the travel planning journey, our objective is to introduce a Flight Fare Prediction System. This system will integrate intelligent computational algorithms designed to analyze historical fight price data and discern patterns, thereby enabling more precise forecasts of future prices. Our primary goal is to instill confdence in travelers by ensuring they secure reasonable deals when booking fights. To facilitate this, we will develop a user-friendly interface that allows travelers to efortlessly input their travel details and receive personalized fare predictions tailored to their preferences and budgetary constraints. By implementing this system, we aim to empower travelers to plan their trips with confdence, free from the anxiety of abrupt price fuctuations. Ultimately, our Flight Fare Prediction System endeavors to transform the fight booking experience into one that is seamless and enjoyable for all travelers.
+
+
+### Data Collection and Preparation:
+Flight data is obtained through web scraping from MakeMyTrip (MMT) and stored in an Excel fle for further analysis. The collected data undergoes preprocessing steps to ensure its readiness for model development. This includes handling missing values, converting date and time features into numerical formats, and encoding categorical features using one-hot encoding techniques
